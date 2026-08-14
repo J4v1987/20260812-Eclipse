@@ -1,0 +1,1 @@
+convert *.png -delay 100 -morph 20 -dispose Background animation.gif
